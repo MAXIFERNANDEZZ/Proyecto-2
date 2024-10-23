@@ -120,9 +120,11 @@ Los dias Sabado y Domingo la franja horaria de mayor siniestro es de 3 a 9 hs. D
 
 El mayor porcentaje de siniestros lo tienen los hombrs. Las víctimas Masculinas suelen tener entre 20 a 40 años en mayor medida. Además en los siniestros de Masculinos los mayores casos se dan en su rol como Conductor. 
 
-Los tipos de vehículos más frecuentes con Víctimas son las Motos y luego los Peatones. Para los Acusados los vehículos más frecuentes son Autos, Colectivos y cargas. 
+Los tipos de vehículos más frecuentes con Víctimas son las Motos y luego los Peatones. 
 
-Las Avenidas a lo largo de los años han sido los espacios de mayor cantidad de siniestros.
+Para los Acusados los vehículos más frecuentes son Autos, Colectivos y cargas. 
+
+Las Avenidas en los años analizados han sido el tipo de calle de mayor cantidad de siniestros (442).
 
 Yo creo que habría que mejorar la señalización en Avenidas y realizar controles los días Sabados y Domingos de 3 a 9 hs. 
 
