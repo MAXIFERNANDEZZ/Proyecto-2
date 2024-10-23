@@ -64,7 +64,7 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
 
   Tambien podemos ver que las victimas masculinas tienen a ser Conductores y Peatones y las victimas mujeres tienen a ser Peatones seguido por Pasajero-Acompañante
 
-  ![RolySexo](/Imágenes/Rolysexo.png)
+  ![RolySexo](/Imágenes/RolySexo.png)
   
 - Análisis Geográfico
 
