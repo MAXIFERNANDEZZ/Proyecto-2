@@ -33,7 +33,7 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
 
   Se analizan las variables numéricas del dataset su correlación por medio de una matriz y se puede ver una relación positiva entre las variables Edad y Hora.
   
-  [Mapa de Correlación](/Imágenes/MapadeCorrelación.png)
+![Mapa de Correlación](/Imágenes/MapadeCorrelación.png)
 
 - Análisis Temporal
   El análisis temporal muestra para el período 2016-2018 una tendencia alta y estacionaria de homicidios , que luego baja (Pandemia por COVID19 durante 2020); puede verse un pico de siniestros durante Diciembre de 2021 y se retoma una tendencia baja.
