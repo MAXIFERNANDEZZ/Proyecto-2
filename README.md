@@ -110,8 +110,23 @@ Definimos a la cantidad de accidentes mortales de motociclistas en siniestros vi
 ![KPI 1](/Imágenes/KPI1.PNG)
 ![KPI 2](/Imágenes/KPI2.PNG)
 ![KPI 3](/Imágenes/KPI3.PNG)
-  
-  
+
+### Conclusiones
+
+Las víctimas fatales por siniestros de tránsito entre los años 2016 a 2021 fueron 717 personas. 
+
+Los dias Sabado y Domingo la franja horaria de mayor siniestro es de 3 a 9 hs. De Martes a Sabado los accidentes suelen ser en mayor medida de 10 a 12 am y tambien hay cierto patrón de Miercoles a Viernes entre las 17 a 20 pm.
+
+
+El mayor porcentaje de siniestros lo tienen los hombrs. Las víctimas Masculinas suelen tener entre 20 a 40 años en mayor medida. Además en los siniestros de Masculinos los mayores casos se dan en su rol como Conductor. 
+
+Los tipos de vehículos más frecuentes con Víctimas son las Motos y luego los Peatones. Para los Acusados los vehículos más frecuentes son Autos, Colectivos y cargas. 
+
+Las Avenidas a lo largo de los años han sido los espacios de mayor cantidad de siniestros.
+
+Yo creo que habría que mejorar la señalización en Avenidas y realizar controles los días Sabados y Domingos de 3 a 9 hs. 
+
+Tambien habría que realizar campañas sobre conciencia al volante para los Hombres de entre 20 y 40 años como también mas exigencia a la hora de entregar el carnet de conducir.
   
 
   
