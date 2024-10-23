@@ -32,6 +32,7 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
 ### Análisis de los datos
 
   Se analizan las variables numéricas del dataset su correlación por medio de una matriz y se puede ver una relación positiva entre las variables Edad y Hora.
+  
   [Mapa de Correlación](/Imágenes/MapadeCorrelación.png)
 
 - Análisis Temporal
