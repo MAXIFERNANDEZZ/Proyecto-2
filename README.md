@@ -24,10 +24,10 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
   [Diccionario de datos](https://docs.google.com/spreadsheets/d/1Op98U-Hh2a3Q7uuznAzdl4Bf8r8qPr4m/edit#gid=1771770012)
 
 ## ETL (Extracción, Limpieza y Carga de datos)
-  Se realiza un proceso de [ETL](/data/ETL.ipynb) sobre la tabla de 'Hechos' y 'Victima', eliminando nulos, duplicados, con transformaciones necesarias como cambio en los tipos de datos, eliminación de columnas y unión de las tablas y generamos un csv llamado [Casos](/data/casos.csv)
+  Se realiza un proceso de [ETL](/ETL/ETL.ipynb) sobre la tabla de 'Hechos' y 'Victima', eliminando nulos, duplicados, con transformaciones necesarias como cambio en los tipos de datos, eliminación de columnas y unión de las tablas y generamos un csv llamado [Casos](/data/casos.csv)
 
 ## EDA (Análisis Exploratorio de los datos)
-  Se realiza un proceso [EDA](/data/EDA.ipnyb), para revisar las relaciones que existen entre las variables numéricas y categóricas de los datasets, encontrar si hay presencia de outliers o anomalías.
+  Se realiza un proceso [EDA](/EDA/EDA.ipnyb), para revisar las relaciones que existen entre las variables numéricas y categóricas de los datasets, encontrar si hay presencia de outliers o anomalías.
 
 ### Análisis de los datos
 
