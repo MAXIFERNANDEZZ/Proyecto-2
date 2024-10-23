@@ -86,7 +86,7 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
   Cuando el acusado es cargas, las victimas en mayor medida son Motos y Peatones
   Cuando el acusado es un pasajero, las victimas son Peatones y Motos
 
-  ![RelaciónVictimaAcusado](/Imágenes/RelaciónVictimaAcusado.png)
+  ![RelaciónVictimaAcusado](/Imágenes/RelacionVictimaAcusado.png)
 
 ### Indicadores de Rendimiento Clave KPI  
   Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante [Casos](data/casos.csv) para trabajar en la herramienta PowerBi a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un dashboard de presentación del informe y visualización de datos.
