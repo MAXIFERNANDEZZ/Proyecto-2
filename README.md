@@ -94,7 +94,7 @@ Para este trabajo se  uso como base los datos proporcionados de los siniestros v
 ### Dashboard
 Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante casos para trabajar en PowerBi a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un dashboard de presentación del informe y Visualización de datos.
 
-[Dashboard](/data/Proyecto2.pbix)
+[Dashboard](/data/Proyecto2-def.pbix)
 
 KPI Propuestos: 
 Debes graficar y medir los 2 KPIs propuestos a continuación, representándolos adecuadamente en el dashboard. A su vez, tambíen tienes que proponer, medir y graficar un tercer KPI que consideres relevante para la temática. Los dos KPIs propuestos son:
